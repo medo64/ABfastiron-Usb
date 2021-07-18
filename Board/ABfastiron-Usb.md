@@ -11,5 +11,5 @@
 |  1 | J USB A 2.0 Vertical (4w)       | J1       | 2987-CU01SAV1S00-ND      |
 |  1 | R 3.3K 5% 0.125W (0805)         | R1       | RMCF0805JT3K30CT-ND      |
 |  1 | VR VXO7805-1000 (SIP-3)         | VR1      | 102-4258-ND              |
-|  1 | W Cable JST XH 2.54 2-pin cable | -        | -                        |
+|  1 | W JST-XH 100mm (2w)             | -        | -                        |
 |  2 | H Screw M3x8mm                  | -        | -                        |
