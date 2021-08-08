@@ -9,3 +9,4 @@ See also:
 * [Blog post](https://www.medo64.com/2021/07/adding-usb-to-a-bfastiron-ss-305mp/)
 
 ![Front panel](Resources/ss305mp-front.jpg)
+![Inside](Resources/ss305mp-inside.jpg)
