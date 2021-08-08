@@ -13,3 +13,12 @@
 |  1 | VR VXO7805-1000 (SIP-3)         | VR1      | 102-4258-ND              |
 |  1 | W JST-XH 100mm (2w)             | -        | -                        |
 |  2 | H Screw M3x8mm                  | -        | -                        |
+
+## Notes
+
+Please check polarity of DC-DC voltage regulator. There are two common pinouts;
+one using 7805-like setup while other has the same pinout in reverse. VXO7805
+listed here is one of those and silk-screen is adjusted for it. If you have one
+of regulators with "proper" pinout, just rotate it and mount it slightly off the
+board - there's enough space either way and, as long as pin 1 matches, there
+will be no impact to circuit.
